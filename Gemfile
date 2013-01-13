@@ -6,6 +6,7 @@ source 'http://rubygems.org'
 	gem 'haml', '~> 3.1.7'
 	gem 'bson_ext', '~> 1.3.1'
 	gem 'rails-backbone', "~> 0.9.0"
+  gem 'haml-rails'
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
